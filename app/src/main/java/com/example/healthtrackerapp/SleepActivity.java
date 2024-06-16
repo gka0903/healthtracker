@@ -54,6 +54,8 @@ public class SleepActivity extends AppCompatActivity {
                 if (!selectedDate.isEmpty() && !sleepStart.isEmpty() && !sleepEnd.isEmpty()) {
                     saveData(selectedDate, sleepStart, sleepEnd);
                     Toast.makeText(SleepActivity.this, "수면 기록이 저장되었습니다.", Toast.LENGTH_SHORT).show();
+                    etSleepStart.setText("");
+                    etSleepEnd.setText("");
                 } else {
                     Toast.makeText(SleepActivity.this, "모든 필드를 입력하세요.", Toast.LENGTH_SHORT).show();
                 }

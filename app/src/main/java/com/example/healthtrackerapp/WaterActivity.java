@@ -55,6 +55,7 @@ public class WaterActivity extends AppCompatActivity {
                 } else {
                     Toast.makeText(WaterActivity.this, "모든 필드를 입력하세요.", Toast.LENGTH_SHORT).show();
                 }
+                etWaterAmount.setText("");
             }
         });
 

@@ -57,6 +57,8 @@ public class DietActivity extends AppCompatActivity {
                 } else {
                     Toast.makeText(DietActivity.this, "모든 필드를 입력하세요.", Toast.LENGTH_SHORT).show();
                 }
+                etDietDescription.setText("");
+                etCalories.setText("");
             }
         });
 
