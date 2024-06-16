@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnExercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="운동 기록" />
+
+    <Button
+        android:id="@+id/btnDiet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="식단 기록"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnSleep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="수면 추적"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnWater"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="물 섭취량 기록"
+        android:layout_marginTop="8dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnViewExerciseData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="운동 기록 보기"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnViewDietData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="식단 기록 보기"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnViewSleepData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="수면 기록 보기"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnViewWaterData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="물 섭취 기록 보기"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

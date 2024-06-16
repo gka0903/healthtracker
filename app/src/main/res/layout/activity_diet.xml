@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etDietDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="날짜를 선택하세요"
+        android:focusable="false" />
+
+    <EditText
+        android:id="@+id/etDietDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="식단 설명" />
+
+    <EditText
+        android:id="@+id/etCalories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="칼로리"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnSaveDiet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="저장"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnViewDietData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="저장된 데이터 보기"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnBackToMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="메인 화면으로 돌아가기"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

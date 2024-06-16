@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etSleepDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="날짜를 선택하세요"
+        android:focusable="false" />
+
+    <EditText
+        android:id="@+id/etSleepStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="수면 시작 시간 (예: 22:00)"
+        android:inputType="time" />
+
+    <EditText
+        android:id="@+id/etSleepEnd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="수면 종료 시간 (예: 06:00)"
+        android:inputType="time" />
+
+    <Button
+        android:id="@+id/btnSaveSleep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="저장"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnViewSleepData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="저장된 데이터 보기"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnBackToMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="메인 화면으로 돌아가기"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
