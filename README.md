@@ -72,9 +72,7 @@
    - 물 기록 확인
    <img width="257" alt="Screenshot 2024-06-18 at 8 39 17 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/4d4add3d-6024-436f-81e1-45586b3c7b0d">
 
-
 <br>
 
 ### 유튜브 시연영상
-[![텍스트](http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE)](https://unity3d.com/kr)
-https://youtu.be/C9KanqfYGjs
+[![텍스트](https://github.com/gka0903/healthtracker/assets/59007130/27f1ead9-22f6-440f-be37-333437244ba6)](https://www.youtube.com/watch?v=C9KanqfYGjs)
