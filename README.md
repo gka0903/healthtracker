@@ -51,7 +51,8 @@
 <img width="258" alt="Screenshot 2024-06-18 at 8 36 44 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/86b7f583-105f-400a-beeb-4d9ad2e67482">
 
   
-<img width="275" alt="Screenshot 2024-06-18 at 8 36 26 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/5f52c983-cb95-41b3-b3c9-8639f22cbae1">
+  
+<img width="256" alt="Screenshot 2024-06-18 at 8 36 51 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/70949bfe-2a38-4a7b-bc78-7f29af707b93">
 <img width="251" alt="Screenshot 2024-06-18 at 8 37 49 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/9bee1feb-51ea-4307-a5ef-2a927128f18b">
 <img width="251" alt="Screenshot 2024-06-18 at 8 38 17 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/e28c72ea-b185-40f0-950f-013e2da53e84">
 <img width="257" alt="Screenshot 2024-06-18 at 8 39 17 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/4d4add3d-6024-436f-81e1-45586b3c7b0d">
