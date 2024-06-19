@@ -35,7 +35,24 @@
 
 2.2 프로젝트 구성
 
-- ㅇㄹㅁㅇㄴ
+- 메인 화면
+  <img width="275" alt="Screenshot 2024-06-18 at 8 35 58 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/46738a6b-05d8-429e-b3d6-d6c601a0c0c6">
+
+- 기록 화면
+  <img width="274" alt="Screenshot 2024-06-18 at 8 36 06 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/57ea6719-c6ff-4fc3-bb58-0f140dd8286b">
+<img width="264" alt="Screenshot 2024-06-18 at 8 37 03 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/d7521ba6-8691-4a2e-9565-79d51fda5347">
+<img width="265" alt="Screenshot 2024-06-18 at 8 37 58 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/67ef5cdc-69ed-4ccc-8871-43e8154d3976">
+<img width="260" alt="Screenshot 2024-06-18 at 8 38 28 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/116b71b3-e123-425d-aeff-2b836a714bbd">
+
+- 기록 확인 화면
+<img width="258" alt="Screenshot 2024-06-18 at 8 36 44 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/86b7f583-105f-400a-beeb-4d9ad2e67482">
+
+  
+<img width="275" alt="Screenshot 2024-06-18 at 8 36 26 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/5f52c983-cb95-41b3-b3c9-8639f22cbae1">
+<img width="251" alt="Screenshot 2024-06-18 at 8 37 49 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/9bee1feb-51ea-4307-a5ef-2a927128f18b">
+<img width="251" alt="Screenshot 2024-06-18 at 8 38 17 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/e28c72ea-b185-40f0-950f-013e2da53e84">
+<img width="257" alt="Screenshot 2024-06-18 at 8 39 17 PM" src="https://github.com/gka0903/healthtracker/assets/59007130/4d4add3d-6024-436f-81e1-45586b3c7b0d">
+
 
 <br>
 
